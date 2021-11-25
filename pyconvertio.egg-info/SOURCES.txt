@@ -1,0 +1,9 @@
+README.md
+setup.py
+../pyconvertio/__init__.py
+../pyconvertio/pyconvertio.py
+../pyconvertio.egg-info/PKG-INFO
+../pyconvertio.egg-info/SOURCES.txt
+../pyconvertio.egg-info/dependency_links.txt
+../pyconvertio.egg-info/requires.txt
+../pyconvertio.egg-info/top_level.txt
